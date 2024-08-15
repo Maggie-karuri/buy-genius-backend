@@ -16,6 +16,7 @@ Flask-Migrate==4.0.7
 Flask-RESTful==0.3.10
 Flask-Script==2.0.6
 Flask-SQLAlchemy==3.1.1
+Flask-Session==0.4.0   # Add this line for session management
 greenlet==3.0.3
 gunicorn==22.0.0
 idna==3.7
